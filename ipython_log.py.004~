@@ -1,0 +1,48 @@
+# IPython log file
+
+get_ipython().run_line_magic('logstart', '')
+a = 1
+b = 4
+c = -2
+imoort numpy
+import numpy
+import numpy as np
+import matplotlib.pyplot as plt
+l = np.arange()
+l = np.arange()
+l = np.arange(0.0, 10.0, 0.5) 
+l
+n = [1, 2, 3]
+m*m
+n * n
+l-l
+l*l
+plt.plot(l, l**2)
+plt.plot(l, l**2, *.*)
+plt.plot(l, l**2, '.')
+plt.show()
+x = np.arange(1.0, 10.0, 1.0)
+y1 = x**2
+y2 = 2**x
+x
+y1
+y2
+plt.plot(x, y1)
+plot.show()
+np.show()
+plt.plot(x, y2)
+plt.plot(x, y1)
+plt.linspace(1.0, 10.0, 1000)
+np.linspace(1.0, 10.0, 1000)
+y2 = 2**x
+y1 = x**2
+np.plot(1.0, 10.0, 'g.', label='squares')
+y1
+y2
+plt.plot(x,y1)
+plt.plot(x,y2)
+plt.linspace(1.0, 10.0,100)
+plt.linspace(1.0, 10.0, 100)
+y1
+np.show()
+get_ipython().run_line_magic('cls', '')

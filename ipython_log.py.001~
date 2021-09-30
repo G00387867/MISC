@@ -1,0 +1,168 @@
+# IPython log file
+
+get_ipython().run_line_magic('paste', '')
+get_ipython().run_line_magic('paste', '')
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+get_ipython().run_line_magic('logstart', '')
+import pandas as pd
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+import matplotlib.pyplot as plt
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("hist.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+get_ipython().run_line_magic('logstart', '')
+import pandas as pd
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+import matplotlib.pyplot as plt
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("hist.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("hist.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("hist.png")
+get_ipython().run_line_magic('paste', '')
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("hist.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.hist(df["eruptions"])
+plt.title("waiting")
+plt.savefig("hist.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("eruptions.png")
+plt.hist(df["waiting"])
+plt.title("waiting")
+plt.savefig("waiting.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.clear()
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("eruptions.png")
+plt.clear()
+plt.hist(df["waiting"])
+plt.title("waiting")
+plt.savefig("waiting.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.clear()
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("eruptions.png")
+plt.clear()
+plt.hist(df["waiting"])
+plt.title("waiting")
+plt.savefig("waiting.png")
+get_ipython().run_line_magic('paste', '')
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df = pd.read_csv('http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv')
+df["eruptions"]
+df["waiting"]
+plt.plot(df["eruptions"], df["waiting"], 'b.')
+plt.title("eruptions vs waiting")
+plt.savefig("scatter.png")
+plt.clear()
+plt.hist(df["eruptions"])
+plt.title("eruptions")
+plt.savefig("eruptions.png")
+plt.clear()
+plt.hist(df["waiting"])
+plt.title("waiting")
+plt.savefig("waiting.png")
+exit()
